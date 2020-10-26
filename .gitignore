@@ -1,0 +1,4 @@
+*.class
+/.idea/
+/jEuler/target/
+jEuler.iml

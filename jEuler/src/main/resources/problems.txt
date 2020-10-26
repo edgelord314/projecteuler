@@ -1,0 +1,4 @@
+## List of all problem that are solved in jEuler ##
+de.edgelord.jeuler.Problem1
+de.edgelord.jeuler.Problem2
+de.edgelord.jeuler.Problem3

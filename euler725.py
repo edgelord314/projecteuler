@@ -1,3 +1,5 @@
+__author__ = "Thomas"
+
 from math import factorial as fac
 from itertools import combinations
 
@@ -113,7 +115,7 @@ for k in range(1, 10):
         q.append(k)
 
     for comp in comps:
-        sol += s(comp, 2020)
+        sol += s(comp, 7)
 
 
 sol %= 10 ** 16
